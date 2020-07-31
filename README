@@ -1,0 +1,9 @@
+This is a six step compiler.
+The folder P1 contains the code for MacroExpansion of the input code.
+The folder P2 contains the code for type checking the input code, and identifying undeclared symbols.
+The folder P3 contains the code for translating the MiniJava programs to MiniIR programs.
+The folder P4 contiains the code for translating MiniIR programs to MicroIR programs
+The folder P5 contains the code for Register allocation and translating MicroIR to MiniRA programs.
+The folder P6 contains the code for translating miniRA programs to MIPS Assembly code, which can be run by the MIPS interpreter.
+
+
